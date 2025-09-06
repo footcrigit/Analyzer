@@ -8,4 +8,9 @@ public class DBOperationService {
         // Simulate a database operation
         return "Database operation performed successfully";
     }
+
+    public String fetchDataFromDB() {
+        // Simulate fetching data from a database
+        return "Data fetched from database";
+    }
 }
